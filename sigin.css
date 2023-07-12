@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#validate {
+  margin-bottom: 10px;
+  width: 90%;
+}
+
+.cond{
+  font-size: .8rem
+}
